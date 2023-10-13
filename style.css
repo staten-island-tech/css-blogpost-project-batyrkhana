@@ -1,7 +1,7 @@
 body{
-    background-image: url(img/sand-1657466_1280.jpg);
+    background-image: url(img/sand.jpg);
 }
-.MainHeader {
+.main-header {
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -12,7 +12,7 @@ body{
     width: 60vw;
     background-color: rgb(231, 198, 176);
 }
-.HeaderAuthorName {
+.header-author-name {
     color: rgb(56, 63, 60);
     text-decoration: underline;
 }
@@ -33,19 +33,19 @@ body{
     font-family: 'Lora', serif;
     font-weight: 500;
 }
-.Subheader {
+.subheader {
     font-family: 'Lora', serif;
     font-weight: 700;
 }
-.Image {
+.image {
     max-width: 100%;
     max-height: 100%;
     border: 3px solid black;
 }
-.PublishingDate {
+.publishing-date {
     font-family: 'Lora', serif;
 }
-#SchoolLogo {
+#school-logo {
     position: absolute;
     right: 40px;
     top: 20px;
